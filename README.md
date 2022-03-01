@@ -6,7 +6,9 @@ This repository includes source codes for https://arxiv.org/abs/2108.01317 (Ver.
 1. OS: ubuntu 18.04
 2. Python: 3.6.9
 3. Cuda: 10.2
-4. Torch version: 1.7.1
+4. PyTorch: 1.7.1
+5. Torch Audio: 0.7.2
+6. Torch Vision: 0.8.2
 
 ## Difference from Ver. 1
 - We consider a discrete-time system.
