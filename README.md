@@ -14,3 +14,6 @@ This repository includes source codes for https://arxiv.org/abs/2108.01317 (Ver.
 - We consider a discrete-time system.
 - We consider a stochastic control system (Adding a noise term).
 - We change the environment of the example.
+
+## typo
+- Eq. (9) k_s^i -> t_s^i
