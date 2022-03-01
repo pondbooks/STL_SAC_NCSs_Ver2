@@ -10,5 +10,5 @@ This repository includes source codes for https://arxiv.org/abs/2108.01317 (Ver.
 
 ## Difference from Ver. 1
 - We consider a discrete-time system.
-- We consider a stochastic control system.
+- We consider a stochastic control system (Adding a noise term).
 - We change the environment of the example.
