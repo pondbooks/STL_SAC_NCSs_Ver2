@@ -1,4 +1,4 @@
-# STL_SAC_NCSs_Ver2
+# Soft actor critic for satisfying STL specifications with network delays (Ver. 2)
 
 This repository includes source codes for https://arxiv.org/abs/2108.01317 (Ver. 2). 
 
