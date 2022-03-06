@@ -2,6 +2,8 @@
 
 This repository includes source codes for https://arxiv.org/abs/2108.01317 (Ver. 2). 
 
+![env](https://user-images.githubusercontent.com/68591842/156919594-ec0a0945-9873-4351-8a2e-f1cc944c1348.gif)
+
 ## Configuration
 1. OS: ubuntu 18.04
 2. Python: 3.6.9
