@@ -17,3 +17,8 @@ This repository includes source codes for https://arxiv.org/abs/2108.01317 (Ver.
 
 ## typo
 - Eq. (9) k_s^i -> t_s^i
+
+## Result Data
+- tau_preprocess: tau-MDP (without previous actions) with preprocessing
+- tau_delta_nopreprocess: tau d-MDP (with previous actions) without preprocessing
+- tau_delta_preprocess (proposed method): tau d-MDP (with previous actions) without preprocessing
