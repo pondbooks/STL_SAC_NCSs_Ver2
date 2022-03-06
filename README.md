@@ -22,3 +22,5 @@ This repository includes source codes for https://arxiv.org/abs/2108.01317 (Ver.
 - tau_preprocess: tau-MDP (without previous actions) with preprocessing
 - tau_delta_nopreprocess: tau d-MDP (with previous actions) without preprocessing
 - tau_delta_preprocess (proposed method): tau d-MDP (with previous actions) without preprocessing
+
+![returns_tau_d](https://user-images.githubusercontent.com/68591842/156919395-1cb3df9c-d8d5-4188-a1f4-85da6dab6f6e.png)
