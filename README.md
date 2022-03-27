@@ -18,7 +18,8 @@ This repository includes source codes for https://arxiv.org/abs/2108.01317 (Ver.
 - We change the environment of the example.
 
 ## typo
-- Eq. (9) k_s^i -> t_s^i
+- Eq. (9) k_s^i -> t_s^i (ver. 2)
+- In section III, p_f(x')=|\Delta_{w}^{-1}|p_{w}(\Delta_{w}^{-1}(x'-f(x,u)))
 
 ## Result Data
 - tau_preprocess: tau-MDP (without previous actions) with preprocessing
