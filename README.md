@@ -30,3 +30,6 @@ This repository includes source codes for https://arxiv.org/abs/2108.01317 (Ver.
 ![success_rates_tau_d](https://user-images.githubusercontent.com/68591842/156919433-1f7e21ed-6ebe-4a2b-a684-f6e653ca256e.png)
 ![returns_preprocess](https://user-images.githubusercontent.com/68591842/156919461-416a68d2-fcfe-487c-a84a-9f1971092382.png)
 ![success_rates_preprocess](https://user-images.githubusercontent.com/68591842/156919486-1d0b83ba-aa0c-45bd-bb4d-5ec1bb7c4352.png)
+
+## Note
+In this study, we use the SAC algorithm owing to good sample efficiency and asymptotic performance. In general, we can apply any off-policy DRL algorithm with Experience Replay such as DDPG and TD3.  
