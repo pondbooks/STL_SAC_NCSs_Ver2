@@ -1,6 +1,6 @@
-# Soft actor critic for satisfying STL specifications with network delays (Ver. 2)
+# Soft actor critic for satisfying STL specifications with network delays (Ver. 2 and 3)
 
-This repository includes source codes for https://arxiv.org/abs/2108.01317 (Ver. 2). 
+This repository includes source codes for https://arxiv.org/abs/2108.01317 (Ver. 2 and 3). 
 
 ![env](https://user-images.githubusercontent.com/68591842/156919636-ff35054a-57af-4478-b623-e5e2e5fa78f6.gif)
 
@@ -18,8 +18,9 @@ This repository includes source codes for https://arxiv.org/abs/2108.01317 (Ver.
 - We change the environment of the example.
 
 ## typo
-- Eq. (9) k_s^i -> t_s^i (ver. 2)
-- In section III, p_f(x')=|\Delta_{w}^{-1}|p_{w}(\Delta_{w}^{-1}(x'-f(x,u)))
+- Eq. (9) k_s^i -> t_s^i (ver. 2 -> ver. 3)
+- In section III, we revised as follows: p_f(x')=|\Delta_{w}^{-1}|p_{w}(\Delta_{w}^{-1}(x'-f(x,u))) -> p_f(x')=|\Delta_{w}^{-1}|p_{w}(\Delta_{w}^{-1}(x'-f(x,u))) (ver. 2 -> ver. 3)
+- z[i] -> x^{\tau}[i] in preproccessing.
 
 ## Result Data
 - tau_preprocess: tau-MDP (without previous actions) with preprocessing
