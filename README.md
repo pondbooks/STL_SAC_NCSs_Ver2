@@ -4,13 +4,25 @@ This repository includes source codes for https://arxiv.org/abs/2108.01317 (Ver.
 
 ![env](https://user-images.githubusercontent.com/68591842/156919636-ff35054a-57af-4478-b623-e5e2e5fa78f6.gif)
 
-## Configuration
-1. OS: ubuntu 18.04
-2. Python: 3.6.9
-3. Cuda: 10.2
-4. PyTorch: 1.7.1
-5. Torch Audio: 0.7.2
-6. Torch Vision: 0.8.2
+## Python Version
+```
+Python 3.6.9
+Cuda 10.2
+Pytorch 1.7.1
+Torch Audio 0.7.2
+Torch Vision 0.8.2
+gym 0.19.0
+
+```
+
+## PC
+```
+CPU: AMD(R) Ryzen 9 3950X
+Main Memory: DDR4-2666 16GB 2
+Motherboard: ASUS PRIME X570-PRO
+GPU: NVIDIA(R) GeForce RTX 2070 SUPER
+OS: ubuntu 18.04
+```
 
 ## Difference from Ver. 1
 - We consider a discrete-time system.
